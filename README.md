@@ -12,3 +12,7 @@ With Unreal Engine installed, simply clone the repo and open the .uproject file.
 
 ## Illustrations
 [TODO add screenshots]
+
+## Credits
+Main menu background - Adrianna Calvo (https://www.pexels.com/@adriannaca)
+[TODO add remaining credits]
